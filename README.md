@@ -16,7 +16,7 @@ Here, I have performed programs to practice Core Java concepts which includes
 * Collection: List, Set, Map
 
 ### JDBC(Java Database Connectivity)
-It is a Java API that is use to connect and exceute the query with database
+It is a Java API that is use to connect and exceute the query with database(Mysql)
 
 ### File
 It include program to create, write and read a file in java
